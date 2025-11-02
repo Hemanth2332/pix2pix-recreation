@@ -140,35 +140,14 @@ The model saves generated samples at regular intervals during training.
 - ✅ **Modular code structure** for easy experimentation
 - ✅ **Training monitoring** with sample generation
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Multi-GPU training support
 - [ ] TensorBoard integration for better visualization
 - [ ] Pre-trained models for common datasets
 - [ ] Web demo with Gradio/Streamlit
-- [ ] Support for additional loss functions (e.g., perceptual loss)
+- [ ] Support for additional loss functions (e.g., fourier loss)
 - [ ] CycleGAN extension for unpaired image translation
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Phillip Isola et al.** for the original [pix2pix paper](https://arxiv.org/abs/1611.07004)
-- **Jun-Yan Zhu** and **Taesung Park** for the PyTorch implementation reference
-- **PyTorch** team for the excellent deep learning framework
-- **Berkeley AI Research (BAIR)** for the original work and datasets
 
 ## 📚 References
 
