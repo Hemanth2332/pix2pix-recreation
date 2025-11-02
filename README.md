@@ -131,6 +131,8 @@ The model saves generated samples at regular intervals during training.
 ### Qualitative Evaluation
 ![result](result/result2.png)
 
+![result2](result/result1.png)
+
 ## 🎯 Key Features
 
 - ✅ **U-Net Generator** with skip connections
